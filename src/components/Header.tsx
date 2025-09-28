@@ -128,7 +128,7 @@ const Header: React.FC = () => {
                   <FaFacebook size={20} />
                 </a>
                 <a
-                  href="https://instagram.com/1minutegrace" 
+                  href="https://instagram.com/oneminutegrace" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`transition-all duration-300 ${getLinkHoverStyles()}`}
@@ -201,7 +201,7 @@ const Header: React.FC = () => {
                     <FaFacebook size={20} />
                   </a>
                   <a
-                    href="https://instagram.com/1minutegrace" 
+                    href="https://instagram.com/oneminutegrace" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-600 hover:text-[#8B4513]"
