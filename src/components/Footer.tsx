@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
               <FaFacebook size={28} />
             </a>
             <a 
-              href="https://instagram.com/1minutegrace" 
+              href="https://instagram.com/oneminutegrace" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-white hover:text-white hover:drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] transition-all duration-300"
